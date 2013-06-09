@@ -15,7 +15,7 @@
 
     "background": {"persistent": true, "scripts": ["background.js"]},
   
-    "homepage_url": "http://danr.us",
+    "homepage_url": "https://github.com/orzogen/newtab",
     "offline_enabled": true,
     "permissions": ["tabs", "background", "*://*/*"],
     "commands": {  
